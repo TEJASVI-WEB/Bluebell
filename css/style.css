@@ -1,0 +1,376 @@
+*{  padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+/*Section1 Start here*/
+
+html h2{
+    font-size:28px;
+    font-weight:bold;
+}
+img{
+    width:100%;
+}
+
+/* Section1 start here*/
+.first-box{
+    width:100%;   
+    background-color:white;
+    border-bottom:1px solid black;
+}
+.section1{
+    width:80%;
+    margin:0 auto;
+    color:black;
+}
+.section1 .icon-bar{
+    background-color:black;
+}
+.section1 li a{
+    color: black;
+    margin-right:15%;
+    letter-spacing: 1px;
+}
+.section1  a{
+    text-decoration: none;  
+}
+
+.section1 li a:hover{
+    color:skyblue;
+    font-weight: bold;
+}
+/*Section 2 start here */
+
+.section2{
+    width:100%;
+    height:500px;
+    background-image: url("../img/img100.jpg");
+    background-size:cover;
+    text-align:center;
+    color:white;
+}
+.section2 button{  
+    border:none;
+    border-radius: 50px;
+}
+.section2 .modify{
+    margin-top: 2%;
+    margin-right:1%;
+    width:140px;
+    height:40px;
+    background-color: skyblue;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.section2 h2{
+    font-size: 34px;
+    margin-top:8%;
+}
+.section2 p{
+    color:white;
+    margin-top:1%;
+}
+/*Service Section  Start Here*/
+.mainsection{
+    width:80%;
+    margin: 0 auto;
+}
+.partA{
+    text-align:center;
+}
+.partA h2{
+    margin-top: 5%;
+}
+.partA p{
+    margin-top: 2%;
+    font-size: 16px;
+    color:gray;
+}
+.partB{
+    width:100%;  
+    margin-bottom: 5%;
+}
+
+.partB .custom{
+    width:90%;
+    margin:0 auto;
+    border:solid 1px lightgray;
+    padding:10%;
+    border-radius: 10px;
+    line-height:1.8em;
+    margin-top:10%;
+} 
+
+.partB span{
+    color: #5ab9ea;
+    font-size: 18px;
+    margin-bottom:4%;
+}
+
+.partB  p{
+    color:gray;  
+}
+/*Section 3 Start Here*/
+
+.section3{
+    text-align: center;
+    width:100%;
+    background-color:#fbf8fc;
+}
+.section3 h2{
+    margin-top: 3%;
+}
+.section3 .content{
+    text-align: left;
+    width:80%;
+    margin:0 auto;   
+}
+
+.section3 p{
+    font-size: 14px;
+    color:gray;
+    margin-top:1%;
+    margin-bottom: 3%;
+}
+.content{
+    padding-bottom: 5%;
+}
+.content .part{
+    margin-top: 3%;
+}
+.section3 .content .part span{
+    font-size: 30px;
+    color:#5ab9ea;
+    padding:4%;
+}
+.section3 .content .part p{
+    color:gray;
+    margin-top: 2%;
+    line-height: 1.8em;
+}
+.section3 .content .part h4{
+    padding:0;
+    margin:0;
+}
+
+.no-margin {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+img{
+    width:100%;
+}
+
+/* Video Section Start Here*/
+.intro{
+    width:100%;
+    background-color:#fbf8fc;
+}
+/* Section 4 Start here*/
+.work{
+    width:100%;
+    background-color:#fbf8fc;
+}
+
+.section4{
+    width: 80%;
+    margin:0 auto;
+    text-align: center;
+}
+.section4 h2{
+    margin-top: 4%;
+}
+.section4 p{
+    margin-bottom: 2%;
+}
+.gallary{
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+.gallary img{
+    width:30%;
+    margin-right:2%;
+    margin-bottom:2%;
+}
+/*Pricing Table Start Here*/
+.pricing{
+    width:100%;
+    
+}
+.section5{
+    margin-top:3%;
+    margin-bottom: 3%;
+    text-align: center;
+}
+.section5 p{
+    color:gray;
+}
+.pricing-table{
+    width:80%;
+    margin:0 auto;
+    text-align: center;
+    line-height:3em;
+    margin-top: 3%;
+    margin-bottom:3%;
+}
+.pricing-table .box{
+    width:95%;
+    border:solid grey 1px;
+    border-radius: 5px;
+}
+.pricing-table h5{
+    color:gray;
+    font-size: 18px;
+    margin-top:12%;
+}
+.pricing-table .price{
+    font-size: 20px;
+    margin-bottom: 2%;
+}
+.pricing-table .price span{
+    color:gray;
+}
+
+.pricing-table ul{
+    list-style-type: none;
+}
+.pricing-table ul li{
+    list-style-type: none;
+    color:gray;
+}
+ul.nav li.selected{
+    background-color: #fbf8fc
+}
+.plain-button{
+    margin-top:12%;  
+    margin-bottom: 12%;
+}
+/*Stil Confuse Section Satrt Here*/
+.section6{
+    width:100%;
+    background-image:url("../img/img-9.jpg") ;
+    background-size: cover;
+}
+.down-part{
+    width:80%;
+    margin:0 auto;
+}
+.down-part h3{
+    margin-top:10%;
+    margin-bottom: 10%;
+    color:white;
+    line-height:150%;
+    font-weight: bold;
+}
+.down-part .btn-2{
+    width:170px;
+    height:50px;
+    background:transparent;
+    border:1px solid white;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.btn-2:hover{
+    background-color: skyblue;
+}
+.btn-2 a{
+    font-size: 14px;
+    text-decoration: none;
+    color:white;
+}
+.down-part .align{
+    text-align: right;
+}
+/*Team Section Start Here*/
+.section7{
+    width:80%;
+    margin:0 auto;
+    text-align: center;
+    padding-bottom:5%;
+}
+
+.team-heading{
+    margin-top:4%;
+    margin-bottom: 3%;
+}
+.teammate{
+    width:80%;
+    border:1px solid lightgray;
+    border-radius:5px;
+    padding-bottom:5%;
+}
+.teammate img{
+    width:100%;
+    height:250px;
+}
+.teammate span{
+    font-size: 20px;
+    color:royalblue;
+    margin-right:2%;
+}
+/*Contact Form Start Here*/
+.section8{
+    width:80%;
+    margin:0 auto;
+    text-align: center;
+}
+.section8 p{
+    color: gray;
+    margin-bottom: 4%;
+}
+
+input, textarea {
+    border  : 1px solid gray;
+    border-radius:10px;
+    padding : 10px;
+    margin-bottom  : 2%;
+    width   : 100%;   
+  }
+textarea{
+    height: 140px;
+}
+.mainform{
+    text-align: left;
+}
+.mainform button{
+    width:140px;
+    height:40px;
+    border:1px solid white;
+    background-color: blue;
+    color:white;
+    border-radius: 10px;
+}
+.last-box1{
+    text-align: left;
+    padding-left:5%;
+}
+
+.last-box1 span{
+    font-size: 20px;
+    color: blue;
+}
+.social-icon{
+    text-align: left;
+    padding-left:5%;
+}
+.social-icon span{
+    font-size: 24px;
+    color: blue;
+    margin-right:3%;
+    margin-top: 3%;
+    text-align: left;
+}
+.footer{
+    border-top:1px solid gray;
+    margin-top:3%;
+    margin-bottom:3%;
+    text-align: center;
+}
+.footer p{
+    padding-top:2%;
+}
